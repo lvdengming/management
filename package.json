@@ -65,8 +65,7 @@
         "trailingComma": "none"
     },
     "stylelint": {
-        "extends": "stylelint-config-standard",
-        "customSyntax": "postcss-lit"
+        "extends": "stylelint-config-standard"
     },
     "commitlint": {
         "extends": [
