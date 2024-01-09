@@ -1,8 +1,9 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
+import SideMenu from './views/side-menu/SideMenu.vue';
 </script>
 
 <template>
-    <el-button type="primary">确定</el-button>
+    <SideMenu/>
     <RouterView />
 </template>
