@@ -1,6 +1,0 @@
-# ignore directory
-dist
-node_modules
-
-# ignore file
-LICENSE
