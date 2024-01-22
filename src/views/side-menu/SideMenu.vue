@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-    <el-button type="primary">确定</el-button>
+    <van-button type="primary">确定</van-button>
 </template>
 
 <style scoped lang="scss">
