@@ -1,9 +1,11 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router';
-import SideMenu from './views/side-menu/SideMenu.vue';
+import Add from 'icons/Add.vue';
+import Search from 'icons/Search.vue';
 </script>
 
 <template>
-    <SideMenu />
+    <Add />
+    <Search />
     <RouterView />
 </template>

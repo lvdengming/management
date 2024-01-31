@@ -7,7 +7,14 @@
         "noEmit": true,
         "baseUrl": ".",
         "paths": {
-            "@/*": ["./src/*"]
+            "assets/*": ["./src/assets/*"],
+            "router/*": ["./src/router/*"],
+            "shared/*": ["./src/shared/*"],
+            "stores/*": ["./src/stores/*"],
+            "types/*": ["./src/types/*"],
+            "views/*": ["./src/views/*"],
+            "icons/*": ["./src/shared/icons/*"],
+            "common/*": ["./src/shared/common/*"],
         }
     }
 }

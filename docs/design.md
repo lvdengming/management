@@ -29,4 +29,8 @@
 
 ### 当前进展
 
-原型图设计中
+第一版开发中
+
+### 参考资源
+
+-   [iconfont 官方图标库](https://www.iconfont.cn/collections/index?spm=a313x.collections_index.i1.da2e3581b.26fd3a81Mwgowb&type=1)

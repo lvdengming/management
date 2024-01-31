@@ -2,11 +2,23 @@
 
 :root {
     --base-color-white: #fff;
+    --base-color-blue: #007aff;
 }
 
 :root {
+    --common-color-primary: var(--base-color-blue);
     --common-background-color-white: var(--base-color-white);
-    --common-font-size-base: 12px;
+    --common-space-1x: 0.04rem;
+    --common-space-2x: 0.08rem;
+    --common-space-3x: 0.12rem;
+    --common-space-4x: 0.16rem;
+    --common-space-5x: 0.2rem;
+    --common-space-6x: 0.24rem;
+    --common-space-7x: 0.28rem;
+    --common-space-8x: 0.32rem;
+    --common-space-9x: 0.36rem;
+    --common-space-10x: 0.4rem;
+    --common-font-size-0: 12px;
     --common-font-size-1: 14px;
     --common-font-size-2: 16px;
     --common-font-size-3: 18px;
@@ -16,16 +28,3 @@
 }
 
 /* stylelint-enable no-duplicate-selectors */
-
-*,
-*::before,
-*::after {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
-body {
-    min-height: 100vh;
-    background-color: var(--common-background-color-white);
-}
