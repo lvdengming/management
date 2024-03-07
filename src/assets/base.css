@@ -1,23 +1,25 @@
 /* stylelint-disable no-duplicate-selectors */
 
 :root {
-    --base-color-white: #fff;
-    --base-color-blue: #007aff;
+    --common-theme-color: #007aff;
+    --common-background-color: #fff;
+    --common-text-color-1: #303132;
+    --common-text-color-2: #606142;
+    --common-text-color-3: #909192;
+    --action-bar-background-color: #f2f3f4;
 }
 
 :root {
-    --common-color-primary: var(--base-color-blue);
-    --common-background-color-white: var(--base-color-white);
-    --common-space-1x: 0.04rem;
-    --common-space-2x: 0.08rem;
-    --common-space-3x: 0.12rem;
-    --common-space-4x: 0.16rem;
-    --common-space-5x: 0.2rem;
-    --common-space-6x: 0.24rem;
-    --common-space-7x: 0.28rem;
-    --common-space-8x: 0.32rem;
-    --common-space-9x: 0.36rem;
-    --common-space-10x: 0.4rem;
+    --common-space-1x: 4px;
+    --common-space-2x: 8px;
+    --common-space-3x: 12px;
+    --common-space-4x: 16px;
+    --common-space-5x: 20px;
+    --common-space-6x: 24px;
+    --common-space-7x: 28px;
+    --common-space-8x: 32px;
+    --common-space-9x: 36px;
+    --common-space-10x: 40px;
     --common-font-size-0: 12px;
     --common-font-size-1: 14px;
     --common-font-size-2: 16px;

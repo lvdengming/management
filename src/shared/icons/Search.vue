@@ -6,6 +6,6 @@
     .icon-search {
         width: 48px;
         height: 48px;
-        fill: var(--common-color-primary);
+        fill: var(--common-theme-color);
     }
 </style>

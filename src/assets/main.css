@@ -8,11 +8,11 @@
     box-sizing: border-box;
 }
 
-html {
+/* html {
     font-size: 100px;
-}
+} */
 
 body {
     min-height: 100vh;
-    background-color: var(--common-background-color-white);
+    background-color: var(--common-background-color);
 }
